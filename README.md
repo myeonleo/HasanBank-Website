@@ -6,9 +6,7 @@ This repo was made with Adobe XD with the use of MacBook Pro 13".
 Now, this website doesn't support English currently, but I'm going to add an English version of this website soon.
 
 # This repo is optimized for
-Macbook Pro 13"
-Microsoft Edge
+Macbook Pro 13", Microsoft Edge
 
 # Fonts used to made this repo
-Apple SD Gothic Neo
-Heebo
+Apple SD Gothic Neo, Heebo
