@@ -5,8 +5,5 @@ I made this to design my website, so it loads specific data that I wrote instead
 This repo was made with Adobe XD with the use of MacBook Pro 13".
 Now, this website doesn't support English currently, but I'm going to add an English version of this website soon.
 
-# This repo is optimized for
-Macbook Pro 13", Microsoft Edge
-
-# Fonts used to made this repo
-Apple SD Gothic Neo, Heebo
+# Design for tablets
+This page is designed for tablets. I'll release PC version and Mobile version after making all pages for tablets.
